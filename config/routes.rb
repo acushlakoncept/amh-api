@@ -17,4 +17,6 @@ Rails.application.routes.draw do
                sessions: 'sessions',
                registrations: 'registrations'
              }
+            
+  default_url_options :host => "http://localhost:3000"
 end
