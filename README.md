@@ -107,8 +107,8 @@ Postgres: >=9.5
 ### Setup
 
 ~~~bash
-$ git clone https://github.com/acushlakoncept/todo-api.git
-$ cd todo-api
+$ git clone https://github.com/acushlakoncept/amh-api.git
+$ cd amh-api
 ~~~
 
 Install gems with:
